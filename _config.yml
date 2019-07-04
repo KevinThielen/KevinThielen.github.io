@@ -3,11 +3,12 @@
 # Site wide configuration
 ####################################
 #
-title: GenusNymphicus
+author: Kevin Thielen
+title: KevinThielen's Portfolio
 email: GenusNymphicus@gmail.com
-description: Devlog Overlord Tournament
+description: My humble portfolio
 url: 
-keywords: ["GameDev", "Devlog"]
+keywords: ["GameDev", "Portfolio", "Freelancer"]
 
 #
 ###################################
@@ -33,14 +34,12 @@ kramdown:
 ####################################
 #
 owner:
-  name: GenusNymphicus
+  name: Kevin Thielen
   avatar: avatar.png
-  bio: "New blog posts every Friday 12 pm CEST"
+  # bio: "Independent Game Developer and passionate programmer"
   email: GenusNymphicus@gmail.com
-  twitter: GenusNymphicus #username
+  
   github: KevinThielen #username
-  disqus-shortname: genusnymphicus
-  patreon: GenusNymphicus
   google:
     plus: #username
     analytics: 

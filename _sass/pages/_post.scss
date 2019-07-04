@@ -32,7 +32,7 @@
 // Post Section
 section.post {
     background-color: $background-color;
-	margin-bottom: 40px;
+	margin-bottom: 0px;
 }
 
 // Back home button
@@ -65,6 +65,7 @@ section.post {
 .post-meta {
   font-size: 13px;
   font-weight: bold;
+  
 	.post-date {
 		color: $secondary;
 	}
@@ -94,6 +95,11 @@ a.read-more {
   .post-header {
     margin: 0 auto 50px;
   }
+}
+
+#post img{
+    width: 50%;
+    float: left;
 }
 
 #post h1 {
@@ -157,7 +163,6 @@ a.read-more {
     width: 100%;
   }
 }
-
 // Shares Buttons
 .share-buttons {
   padding-top: 1em;
